@@ -3,5 +3,7 @@ var katzDeliLine = [];
 
 
 function takeANumber(katzDeli, name) {
-  if ()
+  katzDeliLine.push(katzDeli, name)
+  var n = katzDeliLine.length
+  
 }
