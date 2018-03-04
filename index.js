@@ -5,6 +5,8 @@ function takeANumber(katzDeli, name) {
 
 }
 
-function nowServing() {
-  
+function nowServing(katzDeli) {
+  if (katzdeli.length === 0) {
+    return 
+  }
 }
